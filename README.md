@@ -1,5 +1,18 @@
 # Match BGC-Argo Profiles with CMEMS Ocean Colour Products
 
+## Project Information
+
+**Principal Investigator (PI)**  
+Emanuele Organelli (CNR-ISMAR, Roma)
+
+**Developer / Author**  
+Mengyu Li (CNR-ISMAR, Roma)
+
+**Contact**  
+mengyuli@cnr.it
+
+---
+
 ## Overview
 
 This repository provides MATLAB functions to match BGC-Argo profile locations with daily CMEMS Level-4 ocean colour products, including chlorophyll-a (CHL) and diffuse attenuation coefficient at 490 nm (KD490).
